@@ -11,7 +11,7 @@
 ## Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/AlexanderGithubProfile/SCORING.git
+git clone https://github.com/AlexanderGithubProfile/BANK_SCORING.git
 ```
 ## Структура репозитория
 1. `01_preprocessing.pynb`В этой части проекта предобработка данных, включая анализ пропусков, выбросов, баланса выборки, а также обработка категориальных признаков и корреляционный анализ.
