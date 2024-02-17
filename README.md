@@ -19,6 +19,13 @@ git clone https://github.com/AlexanderGithubProfile/BANK_SCORING.git
 3. `data`: В этой папке хранится исходный файл с данными `banking.csv` и экспорт промежуточных данных для обучения моделей `export.csv` в папке export.
 3. `README.md`: Этот файл содержит общее описание проекта и инструкции по его запуску.
 
+<div style="display: flex;">
+    <img src="img/output4.png" width="500" height="300">
+    <img src="img/output1.png" width="500" height="300">
+    <img src="img/output2.png" width="600" height="250">
+    <img src="img/output3.png" width="400" height="250">
+</div>
+
 ## Используемые библиотеки
 - [**pandas**](https://pandas.pydata.org/): Библиотека для работы с данными, предоставляющая удобные инструменты для обработки и анализа табличных данных.
 - [**numpy**](https://numpy.org/): Библиотека для работы с многомерными массивами данных и математическими операциями над ними.
