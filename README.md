@@ -22,7 +22,7 @@ git clone https://github.com/AlexanderGithubProfile/BANK_SCORING.git
 <div style="display: flex;">
     <img src="img/output4.png" width="400" height="300">
     <img src="img/output1.png" width="400" height="300">
-    <img src="img/output2.png" width="500" height="300">
+    <img src="img/output5.png" width="500" height="300">
     <img src="img/output3.png" width="300" height="300">
 </div>
 
