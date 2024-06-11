@@ -23,13 +23,13 @@
 </div>
 
 ## Используемые библиотеки
-> - [**pandas**](https://pandas.pydata.org/): Работа с табличными данными.
-> - [**numpy**](https://numpy.org/): Операции с многомерными массивами.
-> - [**sklearn**](https://scikit-learn.org/stable/): Алгоритмы машинного обучения, предобработка данных, оценка моделей.
-> - [**matplotlib**](https://matplotlib.org/): Визуализация данных.
-> - [**seaborn**](https://seaborn.pydata.org/): Статистические графики.
-> - [**xgboost**](https://xgboost.readthedocs.io/en/latest/): Градиентный бустинг для классификации и регрессии.
-> - [**lightgbm**](https://lightgbm.readthedocs.io/en/latest/): Оптимизированный градиентный бустинг для классификации и регрессии.
+- [**pandas**](https://pandas.pydata.org/): Работа с табличными данными.
+- [**numpy**](https://numpy.org/): Операции с многомерными массивами.
+- [**sklearn**](https://scikit-learn.org/stable/): Алгоритмы машинного обучения, предобработка данных, оценка моделей.
+- [**matplotlib**](https://matplotlib.org/): Визуализация данных.
+- [**seaborn**](https://seaborn.pydata.org/): Статистические графики.
+- [**xgboost**](https://xgboost.readthedocs.io/en/latest/): Градиентный бустинг для классификации и регрессии.
+- [**lightgbm**](https://lightgbm.readthedocs.io/en/latest/): Оптимизированный градиентный бустинг для классификации и регрессии.
 
 ## Запуск проекта
 - Клонируйте репозиторий и установите библиотеки:
